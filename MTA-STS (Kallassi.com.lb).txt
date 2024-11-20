@@ -1,0 +1,8 @@
+{
+    "version": "STSv1",
+    "mode": "enforce",
+    "mx": [
+        "kallassi-com-lb.mail.protection.outlook.com"
+    ],
+    "max_age": 86400
+}
